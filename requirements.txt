@@ -1,0 +1,13 @@
+flask==2.0.2
+psycopg==3.0.3
+mythril==0.22.30
+solc-select==0.2.1
+dict2json==0.1.2
+pytest
+pytz
+flask-cors
+python-dotenv
+#libpq-dev
+#python-dev
+psycopg2
+python-jenkins
