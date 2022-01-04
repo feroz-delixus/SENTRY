@@ -4,7 +4,8 @@ executing them."""
 from mythril.mythril import MythrilDisassembler, MythrilAnalyzer
 from mythril.ethereum import util
 from mythril.analysis.symbolic import SymExecWrapper
-from zoneinfo import ZoneInfo
+#from zoneinfo import ZoneInfo
+from backports.zoneinfo import ZoneInfo
 from datetime import datetime, timezone
 import os
 import json
